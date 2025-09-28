@@ -1,5 +1,5 @@
 
-Empployee Attrition Analysis Dashboard
+**Empployee Attrition Analysis Dashboard**
 This repository contains the source files and documentation for an interactive Employee Attrition Dashboard built using Tableau. 
 The dashboard provides a comprehensive overview of employee turnover within the organization, aiming to identify key drivers and patterns to support data-driven HR strategies.
 
